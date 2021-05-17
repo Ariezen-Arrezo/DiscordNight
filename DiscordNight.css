@@ -47,7 +47,7 @@
 	--Home-Direct-Messages-Header: flex;		/* flex = ON with create DM Button, block = ON, none = OFF */
 	--Home-Close-DM-Button: block;				/* block = ON, none = OFF */
 	
-	--Text-Channels-Capital-Letter: uppercase;	/* uppercase, none */
+	--Text-Channels-Capital-Letter: none;	/* uppercase, none */
 }
 
 :root {
